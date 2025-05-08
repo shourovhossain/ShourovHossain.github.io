@@ -1,46 +1,30 @@
-📁 My Portfolio Website
-Welcome to my personal portfolio website!
-This site showcases my data analytics and business intelligence projects, including work in Python, SQL, Power BI, Excel, and more.
+Massively by HTML5 UP
+html5up.net | @ajlkn
+Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 
-🚀 Features
-Clean, responsive design based on the Massively template by HTML5 UP
 
-Highlights my featured projects with descriptions and visuals
+This is Massively, a text-heavy, article-oriented design built around a huge background
+image (with a new parallax implementation I'm testing) and scroll effects (powered by
+Scrollex). A *slight* departure from all the one-pagers I've been doing lately, but one
+that fulfills a few user requests and makes use of some new techniques I've been wanting
+to try out. Enjoy it :)
 
-Built using HTML5, CSS3, and JavaScript
+Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
+you can use for pretty much whatever.
 
-Mobile-friendly layout with smooth scroll and parallax effects
+(* = not included)
 
-Easy-to-navigate project sections, resume link, and contact form
+AJ
+aj@lkn.io | @ajlkn
 
-🛠️ Tools & Technologies
-HTML5 / CSS3 / JavaScript
 
-GitHub Pages (for hosting)
+Credits:
 
-VS Code (for development)
+	Demo Images:
+		Unsplash (unsplash.com)
 
-Font Awesome (for icons)
-
-Unsplash (for placeholder images)
-
-🎨 Template Credit
-This site is built on the Massively template by HTML5 UP, designed by @ajlkn.
-Used under the Creative Commons Attribution 3.0 License.
-
-📷 Image Credits
-Demo images from Unsplash, freely available under the CC0 license.
-
-📬 Contact
-Feel free to reach out or connect with me:
-
-📧 Email: shourovh1@gmail.com
-
-🔗 LinkedIn
-
-🖥️ GitHub
-
-)
+	Icons:
+		Font Awesome (fontawesome.io)
 
 	Other:
 		jQuery (jquery.com)
